@@ -47,4 +47,6 @@ fn main() {
 
     println!("Heres your hand: {:#?}", cards);
     println!("Heres your deck: {:#?}", deck);
+
+    
 }
